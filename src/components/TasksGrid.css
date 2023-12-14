@@ -1,0 +1,143 @@
+.task-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  min-height: 250px;
+  background-color: var(--task-background);
+  padding: 10px;
+  border-radius: 10px;
+  margin: 15px 15px 0px 0px;
+  outline: var(--task-outline);
+  box-shadow: var(--task-box-shadow);
+  transition: 0.5s ease-in-out;
+}
+
+.task-item .title {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.task-item.active {
+  outline: var(--task-active-outline) solid 6px;
+  transition: 0.5s ease-in-out;
+}
+
+.task-item .edit-task-icon,
+.task-item .delete-task-icon {
+  display: flex;
+  margin-left: auto;
+  font-size: 20px;
+}
+
+.task-item .title input {
+  color: var(--text-color);
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+  outline: none;
+  font-size: 28px;
+  width: 100%;
+  text-align: center;
+}
+
+.task-item h2 {
+  color: var(--text-color);
+  text-align: center;
+  flex-grow: 1;
+  margin-top: 2px;
+}
+
+.task-item p {
+  color: var(--text-color);
+  font-size: 20px;
+  margin: 15px 0 0 0;
+}
+
+.task-item .task-actions {
+  display: flex;
+  justify-content: space-between;
+  margin-top: auto;
+  padding-top: 20px;
+}
+
+.task-item .task-actions button,
+.task-item .actions button {
+  margin: 5px;
+}
+
+.task-item .task-actions .continue-task-btn {
+  background-color: #41f294;
+}
+
+.task-item .task-actions .pause-task-btn {
+  background-color: #ffae00;
+}
+
+.task-item .task-actions .discard-changes-btn,
+.task-item .actions .delete-task-btn,
+.task-item .task-actions .finish-task-btn,
+.task-item .actions .finish-task-btn {
+  background-color: rgb(255, 148, 148);
+}
+
+.task-item .task-actions .save-changes-btn {
+  background-color: rgb(82, 255, 56);
+}
+.task-item .actions .cancel-delete-task-btn,
+.task-item .actions .cancel-finish-task-btn {
+  background-color: whitesmoke;
+}
+
+.task-item .delete-confirmation,
+.task-item .finish-confirmation {
+  visibility: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  border-radius: 10px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.916);
+  opacity: 0;
+  z-index: 2;
+  transition: 0.3s;
+}
+
+.task-item .delete-confirmation h1,
+.task-item .finish-confirmation h1 {
+  color: #f24141;
+}
+
+.task-item .delete-confirmation p,
+.task-item .finish-confirmation p {
+  color: rgb(230, 230, 230);
+  margin: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.task-item .delete-confirmation .actions,
+.task-item .finish-confirmation .actions {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: absolute;
+  bottom: 20px;
+}
+
+.delete-confirmation.active,
+.finish-confirmation.active {
+  visibility: visible;
+  transition: 0.3s;
+  opacity: 1;
+}
+
+.date-picker-input {
+  font-size: 16px;
+  margin: 10px;
+}

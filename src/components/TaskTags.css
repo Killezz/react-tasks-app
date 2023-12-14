@@ -1,0 +1,45 @@
+.task-tags {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.task-tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.task-tags-container .delete-tag-icon {
+  margin-left: 5px;
+}
+
+.task-tag {
+  color: black;
+  font-size: 18px;
+  text-align: center;
+  background-color: var(--task-tag-bg);
+  border-radius: 30px;
+  min-width: 10px;
+  padding: 0 15px 0 15px;
+  margin: 5px;
+  border: black solid 1.5px;
+}
+
+.frequently-used-tags {
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  background-color: rgba(255, 255, 255, 0.842);
+  border-radius: 5px;
+  border: none;
+  margin: 10px;
+  padding: 5px;
+  border: black 2px solid;
+}
+
+.add-tag-icon {
+  font-size: 40px;
+  margin: 10px;
+  color: var(--text-color);
+}

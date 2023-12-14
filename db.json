@@ -1,0 +1,547 @@
+{
+  "settings": {
+    "alternativeMode": false,
+    "theme": "dark"
+  },
+  "tasks": [
+    {
+      "name": "Coding React",
+      "creationTime": 1702216487171,
+      "startTime": null,
+      "finished": true,
+      "dailyActiveTime": [
+        {
+          "date": "2023-11-10",
+          "activeSeconds": 4000,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-06",
+          "activeSeconds": 6000,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-07",
+          "activeSeconds": 5000,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-08",
+          "activeSeconds": 8000,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-09",
+          "activeSeconds": 1500,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-10",
+          "activeSeconds": 1500,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-11",
+          "activeSeconds": 7500,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "Frontend",
+        "school"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Make backend",
+      "creationTime": 1702550094350,
+      "startTime": null,
+      "finished": true,
+      "dailyActiveTime": [
+        {
+          "date": "2023-11-10",
+          "activeSeconds": 8000,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-06",
+          "activeSeconds": 4000,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-07",
+          "activeSeconds": 8000,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-08",
+          "activeSeconds": 1000,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-09",
+          "activeSeconds": 2500,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-10",
+          "activeSeconds": 3000,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-11",
+          "activeSeconds": 6500,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-14",
+          "activeSeconds": 3365,
+          "activeIntervals": [
+            {
+              "startTime": 1702550095775,
+              "endTime": 1702551279200
+            },
+            {
+              "startTime": 1702551280472,
+              "endTime": 1702551281244
+            },
+            {
+              "startTime": 1702551348722,
+              "endTime": 1702551350382
+            },
+            {
+              "startTime": 1702551351147,
+              "endTime": 1702551353519
+            },
+            {
+              "startTime": 1702551354117,
+              "endTime": 1702551355139
+            },
+            {
+              "startTime": 1702551362011,
+              "endTime": 1702551363270
+            },
+            {
+              "startTime": 1702551363931,
+              "endTime": 1702551365803
+            },
+            {
+              "startTime": 1702551366567,
+              "endTime": 1702551367951
+            },
+            {
+              "startTime": 1702551368813,
+              "endTime": 1702551369947
+            },
+            {
+              "startTime": 1702551394546,
+              "endTime": 1702551396168
+            },
+            {
+              "startTime": 1702551396968,
+              "endTime": 1702551398985
+            },
+            {
+              "startTime": 1702551400251,
+              "endTime": 1702551403166
+            },
+            {
+              "startTime": 1702551408175,
+              "endTime": 1702551409205
+            },
+            {
+              "startTime": 1702551409936,
+              "endTime": 1702551411898
+            },
+            {
+              "startTime": 1702551413060,
+              "endTime": 1702551425382
+            },
+            {
+              "startTime": 1702551426405,
+              "endTime": 1702551427713
+            },
+            {
+              "startTime": 1702551428953,
+              "endTime": 1702551430636
+            },
+            {
+              "startTime": 1702551438417,
+              "endTime": 1702551439738
+            },
+            {
+              "startTime": 1702551440475,
+              "endTime": 1702551441930
+            },
+            {
+              "startTime": 1702551453370,
+              "endTime": 1702551455562
+            },
+            {
+              "startTime": 1702551456522,
+              "endTime": 1702551457935
+            },
+            {
+              "startTime": 1702551458867,
+              "endTime": 1702551461178
+            },
+            {
+              "startTime": 1702551462138,
+              "endTime": 1702551463120
+            },
+            {
+              "startTime": 1702551502923,
+              "endTime": 1702551504050
+            },
+            {
+              "startTime": 1702551525163,
+              "endTime": 1702551546236
+            },
+            {
+              "startTime": 1702551546911,
+              "endTime": 1702551581312
+            },
+            {
+              "startTime": 1702551582363,
+              "endTime": 1702551583458
+            },
+            {
+              "startTime": 1702551679728,
+              "endTime": 1702551680757
+            },
+            {
+              "startTime": 1702551737725,
+              "endTime": 1702551781819
+            },
+            {
+              "startTime": 1702551782877,
+              "endTime": 1702551806407
+            },
+            {
+              "startTime": 1702551845225,
+              "endTime": 1702551857550
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "backend",
+        "school"
+      ],
+      "id": 2
+    },
+    {
+      "name": "Finishing project",
+      "creationTime": 1702553639244,
+      "startTime": null,
+      "finished": true,
+      "dailyActiveTime": [
+        {
+          "date": "2023-11-10",
+          "activeSeconds": 6000,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-06",
+          "activeSeconds": 600,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-07",
+          "activeSeconds": 3000,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-08",
+          "activeSeconds": 4000,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-09",
+          "activeSeconds": 2500,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-10",
+          "activeSeconds": 2000,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        },
+        {
+          "date": "2023-12-11",
+          "activeSeconds": 3500,
+          "activeIntervals": [
+            {
+              "startTime": 1702216599705,
+              "endTime": 1702218561295
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "school",
+        "school project"
+      ],
+      "id": 3
+    },
+    {
+      "name": "Make menu",
+      "creationTime": 1702553681885,
+      "startTime": null,
+      "finished": false,
+      "dailyActiveTime": [
+        {
+          "date": "2023-12-14",
+          "activeSeconds": 24,
+          "activeIntervals": [
+            {
+              "startTime": 1702554348217,
+              "endTime": 1702554350264
+            },
+            {
+              "startTime": 1702554359609,
+              "endTime": 1702554361349
+            },
+            {
+              "startTime": 1702558039874,
+              "endTime": 1702558050863
+            },
+            {
+              "startTime": 1702558055138,
+              "endTime": 1702558064301
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "Frontend"
+      ],
+      "id": 4
+    },
+    {
+      "name": "Add css styling",
+      "creationTime": 1702553845109,
+      "startTime": null,
+      "finished": false,
+      "dailyActiveTime": [
+        {
+          "date": "2023-12-14",
+          "activeSeconds": 445,
+          "activeIntervals": [
+            {
+              "startTime": 1702553894513,
+              "endTime": 1702553896730
+            },
+            {
+              "startTime": 1702553930610,
+              "endTime": 1702553936648
+            },
+            {
+              "startTime": 1702553938250,
+              "endTime": 1702554051747
+            },
+            {
+              "startTime": 1702554052926,
+              "endTime": 1702554348566
+            },
+            {
+              "startTime": 1702554358817,
+              "endTime": 1702554361926
+            },
+            {
+              "startTime": 1702556684749,
+              "endTime": 1702556685994
+            },
+            {
+              "startTime": 1702556686890,
+              "endTime": 1702556688313
+            },
+            {
+              "startTime": 1702556689317,
+              "endTime": 1702556691856
+            },
+            {
+              "startTime": 1702556717593,
+              "endTime": 1702556718824
+            },
+            {
+              "startTime": 1702556719919,
+              "endTime": 1702556721064
+            },
+            {
+              "startTime": 1702557719707,
+              "endTime": 1702557723184
+            },
+            {
+              "startTime": 1702558036440,
+              "endTime": 1702558044562
+            },
+            {
+              "startTime": 1702558050799,
+              "endTime": 1702558053893
+            },
+            {
+              "startTime": 1702558059881,
+              "endTime": 1702558064301
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "Frontend",
+        "school project",
+        "styling"
+      ],
+      "id": 5
+    },
+    {
+      "name": "Add comments",
+      "creationTime": 1702553888850,
+      "startTime": null,
+      "finished": false,
+      "dailyActiveTime": [
+        {
+          "date": "2023-12-14",
+          "activeSeconds": 67,
+          "activeIntervals": [
+            {
+              "startTime": 1702553893700,
+              "endTime": 1702553894548
+            },
+            {
+              "startTime": 1702553896367,
+              "endTime": 1702553930652
+            },
+            {
+              "startTime": 1702553936273,
+              "endTime": 1702553938295
+            },
+            {
+              "startTime": 1702554051708,
+              "endTime": 1702554053292
+            },
+            {
+              "startTime": 1702554350218,
+              "endTime": 1702554362710
+            },
+            {
+              "startTime": 1702558038217,
+              "endTime": 1702558050863
+            },
+            {
+              "startTime": 1702558053850,
+              "endTime": 1702558055520
+            },
+            {
+              "startTime": 1702558064263,
+              "endTime": 1702558065670
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "school project"
+      ],
+      "id": 6
+    }
+  ]
+}
